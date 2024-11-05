@@ -1,7 +1,7 @@
 {
     "imports": {
-        "@jsx/jsx-runtime": "npm:@nativescript/foundation/jsx/index.d.ts",
-        "dom": "npm:@nativescript/foundation/dom/index.js",
+        "@jsx/jsx-runtime": "npm:@nativescript/foundation@0.0.1-alpha.22/jsx/index.d.ts",
+        "dom": "npm:@nativescript/foundation@0.0.1-alpha.22/dom/index.js",
         "app": "./dist/out.js",
         "@nativescript/foundation": "npm:@nativescript/foundation@0.0.1-alpha.22",
         "@nativescript/macos-node-api": "npm:@nativescript/macos-node-api@~0.1.3",

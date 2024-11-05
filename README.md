@@ -6,5 +6,6 @@ Use this starter template to create your own macOS app built with [Solid](https:
 git clone https://github.com/NativeScript/template-macos-solid
 cd template-macos-solid
 
+deno task bundle
 deno task start
 ```

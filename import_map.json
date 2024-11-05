@@ -1,0 +1,11 @@
+{
+    "imports": {
+        "@jsx/jsx-runtime": "npm:@nativescript/foundation/jsx/index.d.ts",
+        "dom": "npm:@nativescript/foundation/dom/index.js",
+        "app": "./dist/out.js",
+        "@nativescript/foundation": "npm:@nativescript/foundation@0.0.1-alpha.22",
+        "@nativescript/macos-node-api": "npm:@nativescript/macos-node-api@~0.1.3",
+        "solid-native-renderer": "./tools/renderer.js",
+        "yoga-layout": "npm:yoga-layout@3.1.0"
+    }
+}
